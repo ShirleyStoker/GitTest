@@ -1,0 +1,13 @@
+GIT COMPONENTS: THE WORKING DIRECTORY, STAGING AREA, AND GIT REPOSITORY (Files T05 Lectura)
+
+In GIT your filer can have three main states: committed, modified, and staged.
+
+Committed: If your file is committed, its data is safely stored in your local database. 
+
+GIT COMPONENTS: THE BASIC GIT WORKFLOW
+
+Below is the basic Git workflow:
+1. Modify a file from the working directory.
+2. Add these modified files to the staging area.
+3. Perform a commit operation to move the files from the staging area ans store them permanently in the Git repository.
+
